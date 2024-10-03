@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PULIGILLA-NIKITHA
 - 👀 I’m interested in LEARNING NEW THINGS
-- 🌱 I’m currently learning JAVA LANGUAGE
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate WITH GOOGLE OR MICROSOFT
 - 📫 How to reach me THROUGH MY MAIL ID
 - 😄 Pronouns: ...
