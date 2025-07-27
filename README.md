@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Puligilla Nikitha</h1>
-<h3 align="center">A passionate Entry Level Data Analyst and Frontend Developer from India</h3>
+<h3 align="center">A passionate Data Analyst and AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puligilla-nikitha&label=Profile%20views&color=0e75b6&style=flat" alt="puligilla-nikitha" /> </p>
+
+- 🌱 I’m currently learning **Data Analytics Course**
+
+- 📫 How to reach me **nikitha.puliglla2004@gmail.com**
+
+- 📄 Know about my experiences [https://pdf.ac/4RFjCF](https://pdf.ac/4RFjCF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
