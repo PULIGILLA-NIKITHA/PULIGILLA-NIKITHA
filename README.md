@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Puligilla Nikitha</h1>
+<h1 align="center">Hi 👋, I'm Puligilla Nikitha </h1>
 <h3 align="center">A passionate AI developer and Data Analyst developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puligilla-nikitha&label=Profile%20views&color=0e75b6&style=flat" alt="puligilla-nikitha" /> </p>
